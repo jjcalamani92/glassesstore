@@ -3,7 +3,7 @@ export const HomeHardware = () => {
 		<section className="relative bg-white">
 			<img
 				className="absolute inset-0 object-[75%] sm:object-[25%] object-cover w-full h-full opacity-25 sm:opacity-100"
-				src="https://res.cloudinary.com/dvcyhn0lj/image/upload/v1655137811/Ferreteria/Ferreteria_rxmqk6.webp"
+				src="https://res.cloudinary.com/dvcyhn0lj/image/upload/v1645194764/glass/home/home-bg-1_ti0s6k.png"
 				alt="Couple on a bed with a dog"
 			/>
 
@@ -13,25 +13,24 @@ export const HomeHardware = () => {
 				<div className="max-w-xl text-center sm:text-left">
 					<h1 className="text-3xl font-extrabold sm:text-5xl">
 						La calidad esta
-						<strong className="font-extrabold text-red-600 sm:block">
+						<strong className="font-extrabold text-rose-600 sm:block">
 							Disponible
 						</strong>
 					</h1>
-
 					<p className="max-w-lg mt-4 sm:leading-relaxed sm:text-xl">
-						Fierros es una ferretería que ofrece toda una gama de herramientas para arreglar los desperfectos del hogar.
+					Bienvenido a Ojos de Aviados, el lugar de grandes ofertas en lentes, en Bolivia, en América y en todo el mundo. Explore nuestra selección de más de 70.000 lentes y lentes de sol en línea; estamos seguros de que tendremos algo que te encantará.
 					</p>
 
 					<div className="flex flex-wrap gap-4 mt-8 text-center">
 						<a
-							className="block w-full px-12 py-3 text-sm font-medium text-white rounded shadow bg-red-500 sm:w-auto active:bg-red-500 hover:bg-red-600 focus:outline-none focus:ring"
+							className="block w-full px-12 py-3 text-sm font-medium text-white rounded shadow bg-rose-500 sm:w-auto active:bg-rose-500 hover:bg-rose-600 focus:outline-none focus:ring"
 							href=""
 						>
 							Ver Productos
 						</a>
 
 						<a
-							className="block w-full px-12 py-3 text-sm font-medium bg-white rounded shadow text-red-500 sm:w-auto hover:text-red-600 active:text-red-500 focus:outline-none focus:ring"
+							className="block w-full px-12 py-3 text-sm font-medium bg-white rounded shadow text-rose-500 sm:w-auto hover:text-rose-600 active:text-rose-500 focus:outline-none focus:ring"
 							href=""
 						>
 							Descuentos

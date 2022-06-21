@@ -1,4 +1,4 @@
-export interface IClothing {
+export interface IGlasses {
 	_id: string;
 	name: string;
 	brand: string;
@@ -16,7 +16,9 @@ export interface IClothing {
 	status: boolean;
 	site: string;
 
-	color: string;
-	sizes: string[];
+	glasses: string;
+	form: string;
+	bridge: string;
+	rod: string;
 
 }

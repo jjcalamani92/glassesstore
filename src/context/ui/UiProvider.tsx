@@ -16,13 +16,13 @@ const UI_INITIAL_STATE: UiState = {
 	isCartOpen: false,
 	site: {
 		_id: "w",
-		title: "Fierros",
-		domain: "fierrosferreteria.com",
+		title: "Aviador",
+		domain: "aviador.com",
 		// logo: "https://res.cloudinary.com/dvcyhn0lj/image/upload/v1647095547/piccoletti-logo_j6hxbw.jpg",
-		logo: "https://res.cloudinary.com/dvcyhn0lj/image/upload/v1648919933/Ferreteria/l91xephj1ctcxor7h06d.png",
+		logo: "https://res.cloudinary.com/dvcyhn0lj/image/upload/v1655836738/glass/zarla-ojo-de-aviador-1x1-2400x2400-20220209-6xt34wyktxdkg8xt9y6x_m6rbbm_d9v11u.png",
 		numberPhone: "68175851",
 		address: "av fatima",
-		description: "av fatima",
+		description: "tienda de lentes",
 		type: "ecommerce",
 		categories: [
 			{
@@ -42,8 +42,8 @@ const UI_INITIAL_STATE: UiState = {
 				],
 				sections: [
 					{
-						_id: 'clothing',
-						name: 'Clothing',
+						_id: 'glasses',
+						name: 'Glasses',
 						href: '#',
 						description: 'ropa para mujer',
 						imageSrc: 'https://tailwindui.com/img/ecommerce-images/mega-menu-category-01.jpg',
