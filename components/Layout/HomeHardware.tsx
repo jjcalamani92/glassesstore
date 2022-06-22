@@ -18,7 +18,7 @@ export const HomeHardware = () => {
 						</strong>
 					</h1>
 					<p className="max-w-lg mt-4 sm:leading-relaxed sm:text-xl">
-					Bienvenido a Ojos de Aviados, el lugar de grandes ofertas en lentes, en Bolivia, en América y en todo el mundo. Explore nuestra selección de más de 70.000 lentes y lentes de sol en línea; estamos seguros de que tendremos algo que te encantará.
+					Bienvenido a Ojos de Aviador, el lugar de grandes ofertas en lentes, en Bolivia, en América y en todo el mundo. Explore nuestra selección de más de 70.000 lentes y lentes de sol en línea; estamos seguros de que tendremos algo que te encantará.
 					</p>
 
 					<div className="flex flex-wrap gap-4 mt-8 text-center">
