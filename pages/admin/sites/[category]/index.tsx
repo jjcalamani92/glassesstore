@@ -18,10 +18,7 @@ const ProductPage: NextPage<Props> = ({ category }) => {
 	return (
 		<>
 			<LayoutAdmin>
-				<div className="my-6 container px-2 mx-auto flex flex-row lg:flex-row items-center lg:items-center justify-between ">
-					<h4 className="text-2xl font-bold leading-tight text-gray-800">Categorias</h4>
-				</div>
-				<FormCategory category={category} />
+				
 				{
 					router.query.category==='new'
 					?
@@ -47,7 +44,10 @@ const ProductPage: NextPage<Props> = ({ category }) => {
 				<LayoutSectionListAdmin data={category.sections} category={category._id}/>
 					</>
 				}
-				
+				<div className="my-6 container px-2 mx-auto flex flex-row lg:flex-row items-center lg:items-center justify-between ">
+					<h4 className="text-2xl font-bold leading-tight text-gray-800">Categorias</h4>
+				</div>
+				<FormCategory category={category} />
 			</LayoutAdmin>
 		</>
 	);

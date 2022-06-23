@@ -12,7 +12,7 @@ export const HomeHardware = () => {
 			<div className="relative max-w-screen-xl px-4 py-32 mx-auto lg:h-screen lg:items-center lg:flex">
 				<div className="max-w-xl text-center sm:text-left">
 					<h1 className="text-3xl font-extrabold sm:text-5xl">
-						La calidad esta
+						La calidad esta{' '}
 						<strong className="font-extrabold text-rose-600 sm:block">
 							Disponible
 						</strong>
